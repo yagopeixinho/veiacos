@@ -1,18 +1,14 @@
 <div align="center">
-     <img src="assets/images/readmeTemplateIcon.png" width="300px">
+     <img src="https://github.com/yagopeixinho/veiacoPlataforma/raw/master/src/assets/logos/VeiacoDarkLogo.png">
 </div>
 
 <h4 align="center">Veiaco: porque gerenciar dívidas de amigos nunca foi tão fácil (ou menos constrangedor) </h4>
-
-> **Note**
-> Lamentamos informar que a inclusão da logomarca do aplicativo encontra-se indisponível no momento.
 
 <p align="center">
     <img src="https://img.shields.io/github/last-commit/yagopeixinho/veiacoBackend?color=58ADE2">
     <img src="https://img.shields.io/github/languages/count/yagopeixinho/veiacoBackend?color=E390D2">
     <img src="https://img.shields.io/github/license/yagopeixinho/veiacoBackend?color=fecf10">
 </p>
-
 
 Restful API para o projeto Veiaco - [veiaco](https://github.com/yagopeixinho/veiacoPlataforma)
 > Esse é o *back-end* do projeto Veiaco! Cheque [veiacoPlataforma](https://github.com/yagopeixinho/veiacoPlataforma) para mais informação
